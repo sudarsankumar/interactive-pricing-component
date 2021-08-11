@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: <a href="https://github.com/sudarsankumar/interactive-pricing-component.git">Interactive pricing component</a>
-- Live Site URL: <a href="https://github.com/sudarsankumar/interactive-pricing-component.git">Interactive pricing component</a>
+- Live Site URL: <a href="https://sudarsankumar.github.io/interactive-pricing-component/">Interactive pricing component</a>
 
 ## My process
 
